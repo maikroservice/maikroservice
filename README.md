@@ -19,6 +19,8 @@ I am a python / javascript enthusiast, currently looking for my next position in
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Coaching vs Mentoring - a fight of giants.](https://maikroservice.com/coaching-vs-mentoring-a-fight-of-giants)
+- [Diversify or die - a how-to article.](https://maikroservice.com/diversify-or-die-a-how-to-article)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://maikroservice.com)
