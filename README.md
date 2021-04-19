@@ -3,9 +3,10 @@
 
 I am a python / javascript enthusiast, currently looking for my next position ina a remote setting. 
 
-🧠 skills 
+---
+🧠 Skills Overview
 
-[![maikroservice's skills](https://github.com/maikroservice/maikroservice/raw/main/pluralsight_skills.png)
+![maikroservice's skills](https://github.com/maikroservice/maikroservice/raw/main/pluralsight_skills.png)
 ---
 
 ## &#x1f4c8; My GitHub Stats
