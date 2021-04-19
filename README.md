@@ -4,7 +4,7 @@
 I am a python / javascript enthusiast, currently looking for my next position ina a remote setting. 
 
 ---
-🧠 Skills Overview
+## 🧠 Skills Overview
 
 ![maikroservice's skills](https://github.com/maikroservice/maikroservice/raw/main/pluralsight_skills.png)
 ---
@@ -17,7 +17,7 @@ I am a python / javascript enthusiast, currently looking for my next position in
 
 
 ---
-📘 Latest Blog Articles
+## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [Coaching vs Mentoring - a fight of giants.](https://maikroservice.com/coaching-vs-mentoring-a-fight-of-giants)
