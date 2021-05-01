@@ -3,6 +3,8 @@
 
 I am a python / javascript enthusiast, currently looking for my next position in a remote setting. 
 
+![](https://komarev.com/ghpvc/?username=maikroservice&color=brightgreen)
+
 ---
 ## 🧠 Skills Overview
 
