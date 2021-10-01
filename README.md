@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am a python / javascript enthusiast, currently looking for my next position in a remote setting. 
+Nice to meet you :) 
 
 ![](https://komarev.com/ghpvc/?username=maikroservice&color=brightgreen)
 
