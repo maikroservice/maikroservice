@@ -22,8 +22,7 @@ Nice to meet you :)
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Coaching vs Mentoring - a fight of giants.](https://maikroservice.com/coaching-vs-mentoring-a-fight-of-giants)
-- [Diversify or die - a how-to article.](https://maikroservice.com/diversify-or-die-a-how-to-article)
+- [Hack The Box Arctic - Walkthrough](https://maikroservice.com/hack-the-box-arctic-walkthrough)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://maikroservice.com)
