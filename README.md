@@ -22,6 +22,7 @@ Nice to meet you :)
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [10+ ways to download files on Windows via CLI](https://maikroservice.com/10-ways-to-download-files-on-windows-via-cli)
 - [Hack The Box Intelligence - Walkthrough](https://maikroservice.com/hack-the-box-intelligence-walkthrough)
 - [Hack The Box Arctic - Walkthrough](https://maikroservice.com/hack-the-box-arctic-walkthrough)
 <!-- BLOG-POST-LIST:END -->
