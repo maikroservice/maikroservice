@@ -2,21 +2,10 @@
 
 
 Nice to meet you :) 
+I'm an ethical hacker who focuses on educating other people to learn the in's and out's of cyber security. 
+I started my journey in April 2021 next to my day job and share things I learn over at [maikroservice.com](https://maikroservice.com) and live on [twitch](https://twitch.tv/maikroservice)
 
 ![](https://komarev.com/ghpvc/?username=maikroservice&color=brightgreen)
-
----
-## 🧠 Skills Overview
-
-![maikroservice's skills](https://github.com/maikroservice/maikroservice/raw/main/pluralsight_skills.png)
----
-
-## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maikroservice&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![maikroservice's GitHub stats](https://github-readme-stats.vercel.app/api?username=maikroservice&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 ## 📘 Latest Blog Articles
