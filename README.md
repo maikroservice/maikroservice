@@ -3,7 +3,7 @@
 
 Nice to meet you :) 
 I'm an ethical hacker who focuses on educating other people to learn the in's and out's of cyber security. 
-I started my journey in April 2021 next to my day job and share things I learn over at [maikroservice.com](https://maikroservice.com) and live on [twitch](https://twitch.tv/maikroservice)
+I started my journey in April 2021 next to my day job and share things I learn over at twitter [@maikroservice](https://twitter.com/maikroservice) and in video-form on [Youtube](https://youtube.com/@maikroservice)
 
 ![](https://komarev.com/ghpvc/?username=maikroservice&color=brightgreen)
 
