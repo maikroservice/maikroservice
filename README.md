@@ -11,9 +11,11 @@ I started my journey in April 2021 next to my day job and share things I learn o
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [10+ ways to download files on Windows via CLI](https://maikroservice.com/10-ways-to-download-files-on-windows-via-cli)
+- [How to upload iso files to your proxmox server](https://maikroservice.com/how-to-upload-iso-files-to-your-proxmox-server)
+- [How to install Elasticsearch, Kibana and WinLogBeat in your CloudLab the lazy way](https://maikroservice.com/how-to-install-elasticsearch-kibana-and-winlogbeat-in-your-cloudlab-the-lazy-way)
+- [Hacking Interviews #1 - traceroute - How does it work?](https://maikroservice.com/traceroute-how-does-it-work)
+- [The 10 ways hackers use to download files on Windows](https://maikroservice.com/the-10-ways-hackers-use-to-download-files-on-windows)
 - [Hack The Box Intelligence - Walkthrough](https://maikroservice.com/hack-the-box-intelligence-walkthrough)
-- [Hack The Box Arctic - Walkthrough](https://maikroservice.com/hack-the-box-arctic-walkthrough)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://maikroservice.com)
