@@ -11,11 +11,11 @@ I started my journey in April 2021 next to my day job and share things I learn o
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How to setup wazuh as your SIEM with Debian &amp; proxmox](https://maikroservice.com/how-to-setup-wazuh-as-your-siem-with-debian-proxmox)
+- [How to get started with Monitoring on the Blue Team: A Step-By-Step Guide](https://maikroservice.com/how-to-get-started-with-monitoring-on-the-blue-team-a-step-by-step-guide)
+- [Setting Up Wazuh as Your SIEM on Debian &amp; Proxmox: A Step-by-Step Guide](https://maikroservice.com/setting-up-wazuh-as-your-siem-on-debian-proxmox-a-step-by-step-guide)
 - [How does Kerberos work - an introduction for beginner.](https://maikroservice.com/how-does-kerberos-work-an-introduction-for-beginner)
-- [How to connect wazuh and discord](https://maikroservice.com/how-to-connect-wazuh-and-discord)
+- [How to connect wazuh and discord: a Step-By-Step Guide.](https://maikroservice.com/how-to-connect-wazuh-and-discord-a-step-by-step-guide)
 - [How to upload iso files to your proxmox server](https://maikroservice.com/how-to-upload-iso-files-to-your-proxmox-server)
-- [How to install Elasticsearch, Kibana and WinLogBeat in your CloudLab the lazy way](https://maikroservice.com/how-to-install-elasticsearch-kibana-and-winlogbeat-in-your-cloudlab-the-lazy-way)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://maikroservice.com)
