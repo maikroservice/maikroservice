@@ -12,7 +12,7 @@ I started my journey in April 2021 next to my day job and share things I learn o
 
 <!-- BLOG-POST-LIST:START -->
 - [How to get started with Monitoring on the Blue Team: A Step-By-Step Guide](https://maikroservice.com/how-to-get-started-with-monitoring-on-the-blue-team-a-step-by-step-guide)
-- [Setting Up Wazuh as Your SIEM on Debian &amp; Proxmox: A Step-by-Step Guide](https://maikroservice.com/setting-up-wazuh-as-your-siem-on-debian-proxmox-a-step-by-step-guide)
+- [Setting Up Wazuh as Your SIEM on Debian 12 &amp; Proxmox: A Step-by-Step Guide](https://maikroservice.com/setting-up-wazuh-as-your-siem-on-debian-12-proxmox-a-step-by-step-guide)
 - [How does Kerberos work - an introduction for beginner.](https://maikroservice.com/how-does-kerberos-work-an-introduction-for-beginner)
 - [How to connect wazuh and discord: a Step-By-Step Guide.](https://maikroservice.com/how-to-connect-wazuh-and-discord-a-step-by-step-guide)
 - [How to upload iso files to your proxmox server](https://maikroservice.com/how-to-upload-iso-files-to-your-proxmox-server)
