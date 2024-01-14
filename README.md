@@ -11,11 +11,11 @@ I started my journey in April 2021 next to my day job and share things I learn o
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-By-Step Guide to setup Identity Management for wazuh with authentik](https://maikroservice.hashnode.dev/identity-management-wazuh-and-authentik)
-- [Step-by-Step Guide to Setting Up Snort as Your HomeLab IDS with wazuh &lpar;SIEM&rpar; Integration in 2023](https://maikroservice.hashnode.dev/step-by-step-guide-to-setting-up-snort-as-your-homelab-ids-with-wazuh-siem-integration-in-2023)
-- [How to get started with Monitoring on the Blue Team: A Step-By-Step Guide](https://maikroservice.hashnode.dev/how-to-get-started-with-monitoring-on-the-blue-team-a-step-by-step-guide)
-- [Setting Up Wazuh as Your SIEM on Debian 12 &amp; Proxmox: A Step-by-Step Guide](https://maikroservice.hashnode.dev/setting-up-wazuh-as-your-siem-on-debian-12-proxmox-a-step-by-step-guide)
-- [How does Kerberos work - an introduction for beginner.](https://maikroservice.hashnode.dev/how-does-kerberos-work-an-introduction-for-beginner)
+- [Step-By-Step Guide to setup Identity Management for wazuh with authentik](https://maikroservice.com/identity-management-wazuh-and-authentik)
+- [Step-by-Step Guide to Setting Up Snort as Your HomeLab IDS with wazuh &lpar;SIEM&rpar; Integration in 2023](https://maikroservice.com/step-by-step-guide-to-setting-up-snort-as-your-homelab-ids-with-wazuh-siem-integration-in-2023)
+- [How to get started with Monitoring on the Blue Team: A Step-By-Step Guide](https://maikroservice.com/how-to-get-started-with-monitoring-on-the-blue-team-a-step-by-step-guide)
+- [Setting Up Wazuh as Your SIEM on Debian 12 &amp; Proxmox: A Step-by-Step Guide](https://maikroservice.com/setting-up-wazuh-as-your-siem-on-debian-12-proxmox-a-step-by-step-guide)
+- [How does Kerberos work - an introduction for beginner.](https://maikroservice.com/how-does-kerberos-work-an-introduction-for-beginner)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://maikroservice.com)
