@@ -3,7 +3,7 @@
 
 Nice to meet you :) 
 I'm an ethical hacker who focuses on educating other people to learn the in's and out's of cyber security. 
-I started my journey in April 2021 next to my day job and share things I learn over at twitter [@maikroservice](https://twitter.com/maikroservice) and in video-form on [Youtube](https://youtube.com/@maikroservice)
+I started my journey in April 2021 next to my day job and share things I learn over at Bluesky [@maikroservice](https://bsky.app/profile/maikroservice.com) and in video-form on [Youtube](https://youtube.com/@maikroservice)
 
 ![](https://komarev.com/ghpvc/?username=maikroservice&color=brightgreen)
 
@@ -22,15 +22,12 @@ I started my journey in April 2021 next to my day job and share things I learn o
 
 <!--
 **maikroservice/maikroservice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on portfolio projects to 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on rust projects to integrate offensive tooling using native APIs
+- 🌱 I’m currently learning rusty malware development in depth
+- 👯 I’m looking to collaborate on windows/mac offensive tooling development
+- 💬 talk to me me about dogs, surfing, security and diy projects
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: shorter in person, definitely shorter in person.
+
